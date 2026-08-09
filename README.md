@@ -21,7 +21,7 @@ Developer tooling and developer experience. >15 years building
 platforms devs actually ship on: PhoneGap → Apache Cordova →
 Adobe Developer App Builder.
 
-- **Looking for:** developer productivity / infra / DX engineering
+- **Looking for:** developer productivity / infra / DX engineering / mobile engineering
 - **Location:** Singapore. Authorized to work — no visa sponsorship needed. Also authorized to work in Canada.
 - **Reach me:** shazron at gmail dot com · [shaz.io](https://shaz.io)
 
@@ -32,3 +32,4 @@ Adobe Developer App Builder.
 - [Adobe Developer App Builder](https://developer.adobe.com/app-builder/)
 - [Apache Cordova](https://cordova.apache.org) — maintainer, 2.2k stars, shipped to millions of apps
 - [Adobe aio-cli](https://github.com/adobe/aio-cli) — extensible CLI for Adobe Developer App Builder
+- [Other apps](https://shaz.io/apps)
