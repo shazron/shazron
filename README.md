@@ -30,6 +30,6 @@ Adobe Developer App Builder.
 - [Microsoft My Day](https://www.youtube.com/watch?v=hTSrQXo9H5U) part of Microsoft Office 2008 for Mac 
 - [Adobe Developer AI Assistant](https://developer.adobe.com) covering docs for all our APIs
 - [Adobe Developer App Builder](https://developer.adobe.com/app-builder/)
-- [Apache Cordova](https://cordova.apache.org) — maintainer, 2.2k stars, shipped to millions of apps
+- [Apache Cordova](https://cordova.apache.org) — maintainer, shipped to millions of apps
 - [Adobe aio-cli](https://github.com/adobe/aio-cli) — extensible CLI for Adobe Developer App Builder
 - [Other apps](https://shaz.io/apps)
