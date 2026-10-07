@@ -22,7 +22,7 @@ platforms devs actually ship on: PhoneGap → Apache Cordova →
 Adobe Developer App Builder.
 
 - **Looking for:** developer productivity / infra / DX engineering / mobile engineering
-- **Location:** Singapore. Authorized to work — no visa sponsorship needed. Also authorized to work in Canada.
+- **Location:** Singapore - need a work visa. Also authorized to work in Canada as a citizen.
 - **Reach me:** shazron at gmail dot com · [shaz.io](https://shaz.io)
 - **Showcase Org:** [shaztech.io](https://github.com/shaztechio)
 
